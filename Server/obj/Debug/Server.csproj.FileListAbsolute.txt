@@ -1,0 +1,6 @@
+C:\Users\Karol\Desktop\tmp\FinalRush\Server\bin\Debug\Server.exe.config
+C:\Users\Karol\Desktop\tmp\FinalRush\Server\bin\Debug\Server.exe
+C:\Users\Karol\Desktop\tmp\FinalRush\Server\bin\Debug\Server.pdb
+C:\Users\Karol\Desktop\tmp\FinalRush\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Desktop\tmp\FinalRush\Server\obj\Debug\Server.exe
+C:\Users\Karol\Desktop\tmp\FinalRush\Server\obj\Debug\Server.pdb
